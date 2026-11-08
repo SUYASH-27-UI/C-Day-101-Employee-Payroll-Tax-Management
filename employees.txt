@@ -1,0 +1,4 @@
+101|Rahul Sharma|30000
+102|Amit Patil|25000
+103|Priya Singh|45000
+104|Sneha Joshi|35000
